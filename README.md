@@ -1,5 +1,5 @@
-Hey!
-Welcome to my Tic_Tak_Toi Game
+Hey!/n 
+Welcome to my Tic_Tak_Toi Game.\n
 This is a simple yet fun implementation of the classic **Tic_Tak_Toi** game built using **HTML, CSS, and JavaScript**.  
 
 **Features**
